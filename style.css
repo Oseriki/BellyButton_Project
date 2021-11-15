@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(0, 0, 0, 0.397);
+    }
+  
+  h5 {
+    color: rgba(0, 0, 0, 0);
+  }
+  
+  h6 {
+    color: rgb(51, 48, 48);
+  }
+  
+  .well {
+    color: rgb(0, 0, 0);
+  }
+  
+  .panel{
+    color: rgba(97, 0, 97, 0.945);
+  }
+  
+  .jumbotron {
+    background-image: url("bacteria.jpg");
+    background-size: 100% 100%;
+    color: rgb(275, 275, 275);
+    text-align: center;
+  }
